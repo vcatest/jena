@@ -136,7 +136,7 @@
          Overidden by command line "-Dbenchmark.skip=false"
     -->
     <benchmark.skip>true</benchmark.skip>
-    <sonar.organization>vikrant1717</sonar.organization>
+    <sonar.organization>vcatest</sonar.organization>
 
   </properties>
 
